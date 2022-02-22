@@ -1,5 +1,5 @@
 ﻿# love_project
- 
+ '''
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -13,3 +13,4 @@ plt.plot(x,y1,color = 'r')
 plt.plot(x,y2,color = 'r')
 plt.grid()
 plt.show()
+'''
